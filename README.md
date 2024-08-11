@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a dedicated developer with a strong foundation
 
 ## 🚀 Projects:
 - **[College Org Recruiting Platform](https://github.com/gupranay/recruitment_v3):** A recruitment platform developed using Next.js and Supabase, featuring Google OAuth integration and dynamic recruitment cycle management.
-- **[Thread Library]:** A kernel-level C++ thread library for Unix systems, implementing thread management, scheduling, and synchronization mechanisms.
-- **[Multithreaded Network Fileserver]:** A concurrent, crash-consistent network file server optimized for maximum concurrency and reliable communication.
+- **Thread Library:** A kernel-level C++ thread library for Unix systems, implementing thread management, scheduling, and synchronization mechanisms.
+- **Multithreaded Network Fileserver:** A concurrent, crash-consistent network file server optimized for maximum concurrency and reliable communication.
 
 ## 🏆 Achievements:
 - Successfully developed a full-stack application at Ann Arbor Spark, which automated data retrieval processes and saved over 1200 hours of manual work.
